@@ -39,19 +39,9 @@ Needs some tests.
     =====
 
     ** TODO: Add description **
-    2.1.2 apollo:~/code/work/erlangSV/combo
-    $ cd lib
-    2.1.2 apollo:~/code/work/erlangSV/combo/lib
-    $ ls
-    combo.ex
-    2.1.2 apollo:~/code/work/erlangSV/combo/lib
-    $ cat combo.ex 
-    defmodule Combo do
-    end
-    2.1.2 apollo:~/code/work/erlangSV/combo/lib
-    $ cd ..
-    2.1.2 apollo:~/code/work/erlangSV/combo
-    $ test
+
+** Add files as shown, then compile
+
     2.1.2 apollo:~/code/work/erlangSV/combo
     $ mvim .
     2.1.2 apollo:~/code/work/erlangSV/combo
