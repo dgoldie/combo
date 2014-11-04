@@ -1,7 +1,7 @@
 Combo
 =====
 
-** A first Elixir project **
+**A first Elixir project**
 
 Needs some tests.
 
@@ -33,14 +33,8 @@ Needs some tests.
     2.1.2 apollo:~/code/work/erlangSV/combo
     $ ls
     README.md  config/    lib/       mix.exs    test/
-    2.1.2 apollo:~/code/work/erlangSV/combo
-    $ cat README.md 
-    Combo
-    =====
 
-    ** TODO: Add description **
-
-** Add files as shown, then compile
+**Add files as shown, then compile**
 
     2.1.2 apollo:~/code/work/erlangSV/combo
     $ mvim .
